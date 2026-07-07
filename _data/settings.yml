@@ -1,7 +1,7 @@
 menu:
 - {name: 'home', url: ''}
 - {name: 'research', url: '/research'}
-- {name: 'explorations', url: '/academicpresentations'}
+- {name: 'academic presentations', url: '/academicpresentations'}
 - {name: 'cv', url: '/cv'}
 
 social:
