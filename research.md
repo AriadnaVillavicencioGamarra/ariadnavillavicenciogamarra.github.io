@@ -3,10 +3,6 @@ layout: default
 title: "Research"
 ---
 
----
-title: Research | Ariadna Marina Villavicencio Gamarra
----
-
 #### Research Assistant Experience
 
 **Whitman College, Department of Economics**
