@@ -1,11 +1,11 @@
 menu:
 - {name: 'home', url: ''}
 - {name: 'research', url: '/research'}
-- {name: 'teaching', url: '/teaching'}
+- {name: 'explorations', url: '/explorations'}
 - {name: 'cv', url: '/cv'}
 
 social:
-- {icon: 'mdi:github', link: 'https://github.com/saimamunuru'}
-- {icon: 'mdi:twitter', link: 'https://twitter.com/smamunuru'}
-- {icon: 'mdi:email', link: 'mailto:sai@whitman.edu'}
+- {icon: 'mdi:github', link: 'https://github.com/AriadnaVillavicencioGamarra'}
+- {icon: 'mdi:linkdin', link: 'https://www.linkedin.com/in/ariadnavillaicenciogamarra/'}
+- {icon: 'mdi:email', link: 'mailto:villavia@whitman.edu'}
 
